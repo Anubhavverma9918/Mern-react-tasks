@@ -1,0 +1,24 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
+table{
+    background: rgb(45, 43, 43);
+    height: 400px;
+    width: 70%;
+    margin-left: 180px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+a{
+    color: rgb(103, 114, 123);
+    text-decoration: none;
+}
+h1{
+    color: rgb(103, 114, 123);
+}
+h2{
+    color: rgb(103, 114, 123);
+}
